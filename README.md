@@ -1,4 +1,4 @@
-# CodeAlpha_Hangman
+# Hangman Game
 
 A classic Hangman game implemented in Python. Guess the hidden word one letter at a time before the hangman is complete!
 
